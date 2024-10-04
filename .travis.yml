@@ -1,19 +1,12 @@
-anguage: node_js 
+language: node_js
 
-node_js: 
+node_js:
+  - "14"  # Sabit bir sürüm belirledik
 
-  - "stable" 
-
-deploy: 
-
-  provider: pages 
-
-  skip_cleanup: true 
-
-  github_token: $github_token 
-
-  local_dir: build 
-
-  on: 
-
-    branch: main 
+deploy:
+  provider: pages
+  skip_cleanup: true
+  github_token: $onat.token  # Ortam değişkeni doğru tanımlandı
+  local_dir: build
+  on:
+    branch: main
