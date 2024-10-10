@@ -1,0 +1,5 @@
+The COMP 3104 DevOps course is part of George Brown College’s Computer Programming and Analysis program.
+This course introduces students to DevOps tools and techniques used in modern software development processes.
+The course covers industry-standard tools like Jenkins, Docker, and GitHub, 
+Allowing students to set up Continuous Integration (CI) and Continuous Deployment (CD) pipelines. 
+By applying these tools, students gain hands-on experience in real-world scenarios, preparing them for the industry.

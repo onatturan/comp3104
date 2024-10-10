@@ -1,0 +1,4 @@
+The Software Development Life Cycle (SDLC) includes phases such as planning, development, testing, deployment, 
+and maintenance. DevOps plays a key role in SDLC by enhancing collaboration between developers and operations teams.
+With CI/CD processes, software can be continuously tested and deployed, minimizing delays in the development cycle. 
+DevOps also enables scalability through microservices architecture and cloud-based solutions, making projects more efficient and reliable.
